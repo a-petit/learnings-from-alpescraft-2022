@@ -1,2 +1,6 @@
-# learnings-from-alpescraft-2022
-Learnings from AlpesCraft 2022 conference
+# Learnings from alpescraft 2022
+
+Here are my notes from AlpesCraft 2022 conference : 
+- 
+- 
+- 
