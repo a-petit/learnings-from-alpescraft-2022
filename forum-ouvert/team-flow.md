@@ -58,6 +58,6 @@ Jusqu'à présent, on a vu comment améliorer le lead-time. Mais le rythme de li
 
 ## Key Takeway
 
-- pour réduire le lead-time, réduire le WIP
+- pour réduire le lead-time, réduire le WIP. Permet de travailler + sur la partie produit.
 - pour améliorer le rythme de production (thoughput) : favoriser les personnes / équipes qui sont capable de prendre un problème de bout en bout (fullstack, feature team).
 - les estimations sont toujours fausses (on estime l'effort = différent du lead-time)
