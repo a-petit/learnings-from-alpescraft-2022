@@ -10,14 +10,14 @@ Here are my notes from AlpesCraft 2022 conference :
 Here are my notes from AlpesCraft 2022 forum ouvert : 
 - [La triche en TDD](forum-ouvert/triche-tdd.md)
 - [Experiencing Team Flow](forum-ouvert/team-flow.md)
-- Pourquoi est-ce que tout le monde ne fais pas de TDD ?
+- [Pair/mob programming or not ?](forum-ouvert/pair-mob.md)
 
 ## Key Takeways / TODO
 
 - "Est-ce que tu as bien pensé à tous les inconvénients ?"
 - L'optimum global ne correspond pas forcément aux optimum locaux
 - Prendre du feedback utilisateur en amont et en aval
-- En programmation fonctionnalle, les types algébriques offrent une solution élégantes à la gestion des invariants
+- En programmation fonctionnelle, les types algébriques offrent une solution élégantes à la gestion des invariants
 
 
 - [ ] Animate a "Shortcut Aerobic" workshop : https://github.com/mathieucans/shortcut-aerobic
