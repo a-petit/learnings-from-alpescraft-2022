@@ -20,7 +20,7 @@ Here are my notes from AlpesCraft 2022 forum ouvert :
 - En programmation fonctionnelle, les types algébriques offrent une solution élégantes à la gestion des invariants
 
 
-- [ ] Animate a "Shortcut Aerobic" workshop : https://github.com/mathieucans/shortcut-aerobic
+- [ ] Experiment a "Shortcut Aerobic" workshop : https://github.com/mathieucans/shortcut-aerobic
 - [ ] Récupérer le GIT de l'atelier F#
 - [ ] Documenter les entretiens utilisateurs pour les rendre accessibles à l'ensemble de l'équipe
 
