@@ -36,3 +36,24 @@ Question : pourquoi est-ce que tout le monde ne fait pas du pair/mob programming
 - ne pas dire "pair", "mob". Dans certaines entreprises, pas de problème pour poser des réunions de 4h.
 - accepter de ne rien dire
 - POMODORO
+
+
+## Vrac
+
+Qu’est-ce que je produit ? Logiciel, connaissance.
+
+Travailler seul = optimisation locale. Problème de bus factor.
+
+Pair en remote ?
+push / pull
+outillage, écouteurs, pièce au calme
+
+S’obliger à faire des pauses toutes les 25 minutes.
+
+Pas bien mob :
+rythme
+ça se voit que je suis nul
+
+Pas bien seul :
+- se synchroniser > s’arrêter, ré expliquer
+- un seul système de pensée 
