@@ -21,7 +21,10 @@ The dot game :
 - https://github.com/michelgrootjans/dot-game
 - https://afternoon-bayou-75731.herokuapp.com/
 
+![img.png](DOT-GAME.png)
+
 `PO -> Analyst -> Dev -> Ops -> QA`
+
 
 Actions : 
 - PO : click
@@ -31,8 +34,8 @@ Actions :
 - QA : validation
 
 Définitions :
-- lead-time / cycle time : temps que le ticket met à arriver en production
-- thoughput : rythme de sortie des features (ex 2 features / jour)
+- **lead-time** / cycle time : temps que le ticket met à arriver en production
+- **thoughput** : rythme de sortie des features (ex 2 features / jour)
 
 **Round 1** : push batches of 4 prendre les tâches 4 par 4.
 

@@ -2,8 +2,10 @@
 
 Margaux Perrin aka Margaux l'ergo
 
+[Support](bonnes_pratiques_ux_pour_les_devs.pdf)
 
-UX ?  
+
+## UX ?  
 - expérience utilisateurs, ergonomie
 - concevoir des solutions **utiles** + **agréables** à utiliser.
 - différent du design.
