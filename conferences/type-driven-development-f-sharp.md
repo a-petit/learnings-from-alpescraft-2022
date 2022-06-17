@@ -4,6 +4,7 @@
 - Florent Pellet (Software Crafter Lyon, DDD Lyon, MUG Lyon, HackYourJob, Superindep.fr)
 - Clément Bouillier (Superindep.fr)
 - Dispos pour des BBL
+- [Source Code](https://github.com/HackYourJob/introFSharp-TypeDD-Fable)
 
 ## Talk
 

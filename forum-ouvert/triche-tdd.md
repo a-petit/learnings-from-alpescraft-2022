@@ -4,6 +4,8 @@ Jonathan Laurent
 
 Sujet = BowlingKata
 
++ infos : [Article de son blog](https://www.ytreza.dev/blog/etude-du-kata-bowling-one-test/)
+
 Solutions :
 - démo d’uncle bob
 - version triche par Jonathan
